@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.flowers.jsonfeed.controller.JSONFeedControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.709 s - in com.flowers.jsonfeed.controller.JSONFeedControllerTest
